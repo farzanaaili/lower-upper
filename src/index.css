@@ -1,0 +1,15 @@
+body{
+ color: #000;
+}
+textarea{
+    width: 65%!important;
+}
+button {
+    background: rgb(64, 160, 187);   
+    border-radius: 0.5rem;
+    padding: 10px 15px;  
+    text-transform: uppercase;  
+    color: #fff;
+    margin: 5px;
+    border: none;
+}
